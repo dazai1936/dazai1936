@@ -22,41 +22,25 @@
 ### 🏠 자취생을 위한 홈케어 정보 공유 플랫폼 (2024.07 - 2024.08) / 백엔드
 [HOUSEKEEPING](https://github.com/dazai1936/HOUSEKEEPING_BACKEND)
 
-JWT 인증을 통한 OAuth2 소셜 로그인 구현으로 보안 요구 사항 충족  
-SpringBoot와 REST API를 이용한 백엔드 서버 구축  
-React 기반 반응형 웹 페이지 제작  
-Three.js를 활용한 3D 웹 뷰 구현  
-Socket.IO와 Node.js를 활용한 유저 간 채팅 및 그룹 채팅 기능 구현  
-TensorFlow의 Xception 모델을 이용한 의류 이미지 학습 및 분류  
-NCP MySQL 데이터베이스 구축 및 Object Storage를 활용한 미디어 파일 저장 기능 구현  
-CLOVA OCR 기능을 활용한 영수증 폼 인식 기능 구현  
-외부 API와 머신러닝 기능을 수행하는 FLASK 서버 구축 및 백엔드 서버와 연동  
-Open Weather API를 활용한 날씨 정보 제공 및 날씨에 따른 의류 추천 기능 구현  
-게시판 CRUD 기능 구현  
-Docker와 Jenkins를 이용한 NCP 서버에 프로젝트 빌드 및 배포  
-로드 밸런서를 이용한 네트워크 트래픽 분산 관리  
+- Naver CLOVER AI를 활용한 사용자 취향 분석 레시피 추천 AI 기능 구현
+- React 기반 반응형 웹 페이지 제작
+- MySQL 데이터베이스 기반의 댓글/조회수/회원정보 열람 시스템 구현
+- 모바일API와 Spring Scheduler를 연동한 실시간 SMS 알림 기능 구현
+- RESTful API를 활용한 게시글 CRUD 기능 및 카테고리별 관리 시스템 구현
 
 ### 🎇 축제 및 팝업 스토어 정보 공유 플랫폼 (2024.06 - 2024.07) / Backend
 [POPSTIVER](https://github.com/dazai1936/POPSTIVER_GRADLE_MVC)
 
-세션 인증 방식의 소셜 로그인 구현  
-Spring MVC(레거시) 기반 백엔드 구현  
-MyBatis를 이용한 DB 제어 및 검색 기능 구현  
-JSP와 HTML5 기반 반응형 웹 페이지 제작  
-robots.txt 규약을 준수하는 웹 크롤링 기능 구현  
-BERT 모델을 이용하여 DB 내 행사 정보에 어울리는 태그 생성 기능 구현  
-Python 기능을 수행할 FLASK 서버 구축  
-게시판 CRUD 기능 구현  
-JSON, jQuery, Ajax를 이용한 백엔드와 프론트엔드 간 통신 구현  
-Google Calendar API를 이용한 달력 위젯과 날짜별 행사 목록 추출 기능 구현  
-OpenWeather API를 이용한 날씨 위젯 및 지역, 현재 위치 기반 날씨 정보 제공 기능 구현  
-Chart.js를 이용하여 방문자, 조회수, 인기 게시글 등을 관리자 페이지에 시각화하는 기능 구현  
+- Spring MVC(레거시) 기반 백엔드 구현
+- JSP와 HTML5 기반 반응형 웹 페이지 제작
+- JavaScript를 활용한 페이지간 동기화 구현
+- Google Calendar API와 MyBatis를 활용한 캘린더 위젯과 행사 목록 기능 구현
+- MyBatis 기반의 검색 시스템 구현
+- 게시판 CRUD 기능 구현
 
-## 🖋️ Education
-네이버 클라우드 데브옵스 웹 개발자 과정 (2024.02 ~ 2024.08)  
-이수 : 에이아이팜 비트캠프
-
-
+## :wrench: Education
+### 네이버 클라우드 데브옵스 웹 개발자 과정 (2024.02 ~ 2024.08)  
+- 이수 : 에이아이팜 비트캠프
 
 
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&section=footer" />
